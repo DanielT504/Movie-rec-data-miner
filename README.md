@@ -20,6 +20,10 @@ Get_recommendations() takes a movie title as input, identifies its index, and fi
 
 
 
+![image](https://github.com/DanielT504/Movie-rec-data-miner/assets/62156098/928e3710-29b9-4fd7-a2d8-e11190e17e18)
+
+
+
 Dataset Links
 
 - https://www.kaggle.com/igorkirko/wwwboxofficemojocom-movies-with-budget-listed
