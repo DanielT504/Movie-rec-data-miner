@@ -1,0 +1,8 @@
+budget and revenue: {budget, movie title, movie id, release year, domestic revenue, international revenue},
+box office: {movie id, release date, movie title, runtime, revenue, number of theaters it was played in},
+ratings movie: {title, ratings, number of reviews, movie id, mpaa rating},
+productions/studios: {production studio, production country, movie title, movie id},
+main crew: {director, producer, writer, composer, cinematographer, movie title},
+Movie data: {movie title, movie id, genre(s), overview, language(s), ratings, release countries, release date},
+Inflation revenue: {movie title, movie id, budget, inflation adjusted revenue},
+Country information: {movie title, movie id, release countries, original language, release languages}
