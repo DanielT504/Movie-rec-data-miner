@@ -1,6 +1,6 @@
 from mysql import connector
 
-#change
+# change
 DB_NAME = ''
 DB_HOST = ''
 DB_USER = ''
