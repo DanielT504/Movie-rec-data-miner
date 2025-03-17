@@ -7,8 +7,6 @@ from sqlalchemy import create_engine
 import urllib.parse
 from sqlalchemy import text
 
-#print(sys.version)
-
 # Use a db created according to populateData.sql and schema.txt
 # e.g. (obsolete credentials):
 # 'db356_team04'
