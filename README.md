@@ -1,4 +1,4 @@
-This movie recommender uses datamining to suggest movies to users based on the contents of a database populated by aggragating the dataset links below (the client application, SQl tables, and schema.txt were written with help from Hussain Kuvawala and Isaiah Richards).
+This movie recommender uses data-mining to suggest movies to users based on the contents of a database populated by aggregating the dataset links below.
 
 The recommender establishes a connection to the database managed by connect_to_database(), which uses SQLAlchemy to interact with it. An SQL query then fetches data from the MojoBudgetUpdate, transforming the results into a pandas DataFrame to be processed.
 
